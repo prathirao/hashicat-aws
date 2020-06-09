@@ -12,7 +12,6 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Prathi World!</h2></center>
   This is the site that helps to list cats 
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
 
   </div>
